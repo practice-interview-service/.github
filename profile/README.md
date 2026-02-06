@@ -55,3 +55,6 @@
 ---
 ## ⚙️ 기술 스택
 
+| **FE** | **BE** | **DATA/AI** | 
+|:---:|:---:|:---:|
+| React, Typescript, Context API, Tailwind css | fastAPI | openAI LLM, STT 음성 입력, TTS 음성출력 | 
